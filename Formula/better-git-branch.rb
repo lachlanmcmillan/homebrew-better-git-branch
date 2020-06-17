@@ -4,9 +4,9 @@
 class BetterGitBranch < Formula
   desc "Like git branch, but interactive"
   homepage "https://github.com/lachlanmcmillan/better-git-branch"
-  url "https://github.com/lachlanmcmillan/better-git-branch/releases/download/v1.2.0/better-git-branch-v1.2.0.MacOS.tar.gz"
-  sha256 "c5366f0a104990fca918b639a160d319e5e60769e7d19d5d03231d237afd59bc"
-  version "1.2.0"
+  url "https://github.com/lachlanmcmillan/better-git-branch/releases/download/v1.2.1/better-git-branch-v1.2.1.MacOS.tar.gz"
+  sha256 "d6e933cd63fd4a5f72df4dd8a4ef49f67962b68d1fba15862130b87890995e6c"
+  version "1.2.1"
 
   def install
     bin.install "better-git-branch"
