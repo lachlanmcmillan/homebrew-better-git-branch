@@ -9,7 +9,7 @@ class BetterGitBranch < Formula
   version "1.3.0"
 
   def install
-    bin.install "gb"
+    bin.install "better-git-branch"
   end
 end
 
